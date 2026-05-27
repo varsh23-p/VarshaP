@@ -10,9 +10,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
 ## 👩‍💻 About Me
 
 🎓 B.Tech IT Student at **NMIMS MPSTME, Shirpur**  
@@ -25,6 +22,8 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## 🛠️ Tech Stack
 
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 ### 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,php,mysql" />
